@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://om-seth-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0A0A0F?style=for-the-badge&logo=vercel&logoColor=F7F8F0" alt="Portfolio" /></a>
-  <a href="./assets/Om-Seth-Resume.pdf"><img src="https://img.shields.io/badge/RÉSUMÉ-355872?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="./assets/Om-Seth-Resume.pdf"><img src="https://img.shields.io/badge/RESUME-355872?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/om-seth-94ab523b9/"><img src="https://img.shields.io/badge/LINKEDIN-7AAACE?style=for-the-badge&logo=linkedin&logoColor=0A0A0F" alt="LinkedIn" /></a>
   <a href="mailto:sethomni1564@gmail.com"><img src="https://img.shields.io/badge/EMAIL-12131A?style=for-the-badge&logo=gmail&logoColor=9CD5FF" alt="Email" /></a>
 </p>

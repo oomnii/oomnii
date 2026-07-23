@@ -167,10 +167,6 @@ An online examination platform designed for quiz delivery and result workflows, 
 
 ## GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oomnii&show_icons=true&hide_border=true&bg_color=12131A&title_color=7AAACE&text_color=F7F8F0&icon_color=9CD5FF&ring_color=7AAACE" alt="Om Seth's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oomnii&layout=compact&hide_border=true&bg_color=12131A&title_color=7AAACE&text_color=F7F8F0" alt="Most-used languages" />
-</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.vercel.app?user=oomnii&hide_border=true&background=12131A&ring=7AAACE&fire=9CD5FF&currStreakLabel=7AAACE&sideLabels=8892A4&dates=8892A4&currStreakNum=F7F8F0&sideNums=F7F8F0" alt="Current GitHub contribution streak" />

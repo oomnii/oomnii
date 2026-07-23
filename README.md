@@ -204,7 +204,7 @@ An online examination platform designed for quiz delivery and result workflows, 
   ·
   <a href="https://om-seth-portfolio.vercel.app/">Portfolio</a>
   ·
-  <a href="./assets/Om-Seth-Resume.pdf">Résumé</a>
+  <a href="./assets/Om-Seth-Resume.pdf">Resume</a>
 </p>
 
 <p align="center">

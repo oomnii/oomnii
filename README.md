@@ -9,8 +9,9 @@
   <a href="./assets/Om-Seth-Resume.pdf"><img src="https://img.shields.io/badge/RESUME-355872?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/om-seth-94ab523b9/"><img src="https://img.shields.io/badge/LINKEDIN-7AAACE?style=for-the-badge&logo=linkedin&logoColor=0A0A0F" alt="LinkedIn" /></a>
   <a href="mailto:sethomni1564@gmail.com"><img src="https://img.shields.io/badge/EMAIL-12131A?style=for-the-badge&logo=gmail&logoColor=9CD5FF" alt="Email" /></a>
+  <a href="https://leetcode.com/u/oomniiii/"><img src="https://img.shields.io/badge/LEETCODE-355872?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/omniiii"><img src="https://img.shields.io/badge/CODEFORCES-7AAACE?style=for-the-badge&logo=codeforces&logoColor=0A0A0F" alt="Codeforces" /></a>
 </p>
-
 <h2 align="center">Building intelligent software with thoughtful engineering and interactive design.</h2>
 
 <p align="center">

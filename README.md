@@ -114,7 +114,7 @@ An online examination platform designed for quiz delivery and result workflows, 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,sql" alt="JavaScript, TypeScript, Python, C++, and SQL" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,ts,sql" alt="C++, JavaScript, Python, TypeScript, and SQL" />
 </p>
 
 ### Frontend and Interaction

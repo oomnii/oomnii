@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://om-seth-portfolio.vercel.app/">
-    <img src="./assets/header.svg" width="100%" alt="Om Seth — Software Engineer and AI/ML Enthusiast" />
+    <img src="./assets/header.jpeg" width="100%" alt="Om Seth — Software Engineer and AI/ML Enthusiast" />
   </a>
 </p>
 

@@ -23,7 +23,7 @@
 
 ## About Me
 
-- **Software engineering:** React, Next.js, TypeScript, REST APIs, databases, Docker, Linux, and cloud deployment.
+- **Software engineering:** Node.js, Next.js, TypeScript, REST APIs,FastAPIs, databases, Docker, Linux, and cloud deployment.
 - **AI/ML:** NLP pipelines, semantic matching, skill extraction, model-assisted workflows, and LLM data evaluation.
 - **Problem solving:** 1,500+ algorithmic problems solved across competitive-programming platforms.
 - **Engineering style:** I enjoy owning work from planning and architecture through implementation, testing, debugging, and deployment.
@@ -121,13 +121,13 @@ An online examination platform designed for quiz delivery and result workflows, 
 ### Frontend and Interaction
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,threejs" alt="React, Next.js, HTML, CSS, Tailwind CSS, and WebGL tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React, Next.js, HTML, CSS,and Tailwind CSS" />
 </p>
 
 ### Backend, Data, and Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,mysql,mongodb,docker,aws,linux,firebase" alt="Backend, database, and infrastructure technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mysql,mongodb,docker,linux" alt="Backend, database, and infrastructure technologies" />
 </p>
 
 ### Developer Tools

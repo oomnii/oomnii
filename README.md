@@ -159,7 +159,7 @@ An online examination platform designed for quiz delivery and result workflows, 
 - **Codeforces:** Specialist, peak rating **1427**
 - Ranked **606th among 40,000+ participants** in LeetCode Weekly Contest 510.
 - Winner of the **AI Prompt Engineering Competition** at GDG Indore.
-- Designed and self-hosted a live quiz platform serving **140+ concurrent students with zero downtime**.
+- Designed and self-hosted a live quiz platform serving concurrent students with zero downtime**.
 
 <p align="center">
   <a href="https://leetcode.com/u/oomniiii/"><img src="https://img.shields.io/badge/LEETCODE-12131A?style=for-the-badge&logo=leetcode&logoColor=9CD5FF" alt="LeetCode" /></a>

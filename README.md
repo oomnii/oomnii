@@ -168,13 +168,20 @@ An online examination platform designed for quiz delivery and result workflows, 
 
 ## GitHub Analytics
 
-
 <p align="center">
-  <img width="70%" src="https://streak-stats.vercel.app?user=oomnii&hide_border=true&background=12131A&ring=7AAACE&fire=9CD5FF&currStreakLabel=7AAACE&sideLabels=8892A4&dates=8892A4&currStreakNum=F7F8F0&sideNums=F7F8F0" alt="Current GitHub contribution streak" />
+  <img
+    width="70%"
+    src="https://streak-stats.vercel.app?user=oomnii&hide_border=true&background=12131A&ring=7AAACE&fire=9CD5FF&currStreakLabel=7AAACE&sideLabels=8892A4&dates=8892A4&currStreakNum=F7F8F0&sideNums=F7F8F0"
+    alt="Current GitHub contribution streak"
+  />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oomnii&bg_color=0A0A0F&color=8892A4&line=7AAACE&point=9CD5FF&area=true&hide_border=true" alt="Recent GitHub contribution activity" />
+  <img
+    width="100%"
+    src="https://ghchart.rshah.org/7AAACE/oomnii"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ## Interests and Hobbies

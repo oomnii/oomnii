@@ -62,7 +62,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Interactive Developer Portfolio
+### Interactive Personal Portfolio
 
 A responsive Next.js portfolio featuring a 24-key Spline/WebGL skill keyboard, GSAP interactions, project filtering, theme support, and an animated avatar.
 
@@ -98,7 +98,7 @@ A wireless-sensor-network simulator with Voronoi scheduling, backup-node selecti
 </td>
 <td width="50%" valign="top">
 
-### ABHYAAS Examination Portal
+### ABHYAAS : Examination Portal
 
 An online examination platform designed for quiz delivery and result workflows, building on experience running a live quiz system for 140+ concurrent students.
 
@@ -213,8 +213,4 @@ An online examination platform designed for quiz delivery and result workflows, 
   <a href="https://om-seth-portfolio.vercel.app/">Portfolio</a>
   ·
   <a href="./assets/Om-Seth-Resume.pdf">Resume</a>
-</p>
-
-<p align="center">
-  <sub>Designed to match the visual system of the Om Seth portfolio.</sub>
 </p>

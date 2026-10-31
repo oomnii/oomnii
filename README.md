@@ -67,7 +67,7 @@
 
 ### Interactive Personal Portfolio
 
-A responsive Next.js portfolio featuring a 24-key Spline/WebGL skill keyboard, GSAP interactions, project filtering, theme support, and an animated avatar.
+A responsive Next.js portfolio featuring a 24-key Spline/WebGL skill keyboard, GSAP interactions, project filtering, theme support, and an animated avatar. It shows my frontend skills.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS · GSAP · WebGL
 
